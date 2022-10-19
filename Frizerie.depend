@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1655832315 source:c:\users\alin\desktop\frizerie\stud2.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	"common/Frizerie.cpp"
+
+1655813074 source:c:\users\alin\desktop\frizerie\common\frizerie.cpp
+	"Frizerie.h"
+
+1655830001 source:c:\users\alin\desktop\frizerie\stud1.cpp
+	<fstream>
+	<iostream>
+	"common\Frizerie.cpp"
+
+1655813074 c:\users\alin\desktop\frizerie\common\frizerie.cpp
+	"Frizerie.h"
+
+1653286366 c:\users\alin\desktop\frizerie\common\frizerie.h
+	<iostream>
+
